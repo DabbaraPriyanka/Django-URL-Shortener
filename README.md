@@ -1,4 +1,4 @@
-# A Methodology to generate Funsize URL Using Django Project
+# A Methodology to generate Funsize URL Using Django.
 A full-stack URL shortening web application built with Python and Django, featuring user-friendly dashboards to create, manage, and share short URLs through a responsive interface.
 ## To run this project we require the following softwares pre-installed:
 
